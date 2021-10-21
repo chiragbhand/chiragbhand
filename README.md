@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chiragbhand
-- 👀 I’m interested in ... PYTHON
-- 🌱 I’m currently learning ...pursuing BE
+- 👀 I’m interested in ... JAVA
+- 🌱 I’m currently learning ..java from cyber success
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...8888636219/bhandchirag15@gmail.com
+- 📫 How to reach me ...9422091890/8888636219/bhandchirag15@gmail.com
 
 <!---
 chiragbhand/chiragbhand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
